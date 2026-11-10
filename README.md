@@ -1,4 +1,4 @@
-<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! I`m something called Curious</h2>
+<h2 align="left">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />! I'm something called Curious</h2>
 
 ###
 
