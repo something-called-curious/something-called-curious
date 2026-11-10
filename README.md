@@ -19,22 +19,10 @@
 ###
 
 <div align="left">
-      <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-        <img width="12" />
-      </a>
-      <a href="https://html.com/" target="_blank" style="text-decoration: none; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-        <img width="12" />
-      </a>
-      <a href="https://html.com/" target="_blank" style="text-decoration: none; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-        <img width="12" />
-      </a>
-      <a href="https://www.python.org/" target="_blank" style="text-decoration: none; display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-        <img width="12" />
-      </a>
+  <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></a>&nbsp;
+  <a href="https://html.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /></a>&nbsp;
+  <a href="https://html.com/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /></a>
 </div>
 
 ###
@@ -50,5 +38,3 @@
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-###
